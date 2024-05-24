@@ -5,7 +5,7 @@ Em 2022, consegui meu primeiro emprego como estagiário, que foi dividido em dua
 
 Atualmente, trabalho com DevOps e possuo um bom conhecimento das ferramentas necessárias para aprimorar o desenvolvimento de back-end, desde a criação até a implementação.
 
-[![Victor Gabriel ](https://img.shields.io/badge/Victor%20Gabriel-white?style=flat&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/victorgfullstack/)](https://www.linkedin.com/in/victorgfullstack/)
+[![Victor Gabriel ](https://img.shields.io/badge/Victor%20Gabriel-white?style=flat&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/victordotjava/)](https://www.linkedin.com/in/victordotjava/)
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=blue&link=mailto:seuendereço@gmail.com)](mailto:seuendereço@gmail.com)
 
 (Java | Spring Boot | AWS | Angular | Angular | React | Linux ) 🚀
