@@ -8,7 +8,7 @@ Atualmente, trabalho com DevOps e possuo um bom conhecimento das ferramentas nec
 [![Victor Gabriel ](https://img.shields.io/badge/Victor%20Gabriel-white?style=flat&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/victordotjava/)](https://www.linkedin.com/in/victordotjava/)
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=blue&link=mailto:seuendereço@gmail.com)](mailto:seuendereço@gmail.com)
 
-(Java | Spring Boot | AWS | Angular | Angular | React | Linux ) 🚀
+(Java | Spring Boot | AWS | Angular | React | Linux ) 🚀
 - 👩‍💻 Intern Devops on @[Eds](https://www.linkedin.com/company/extremedigitalsolutions/mycompany/verification/)
 - 🎓 Computer Science Student @ [FMU](https://portal.fmu.br/)
 
